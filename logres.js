@@ -55,6 +55,6 @@ function simulateLogin(username, password) {
   
   // Redirect ke halaman home setelah delay 500ms (efek loading)
   setTimeout(() => {
-    window.location.href = 'home/index.html';
+    window.location.href = 'index.html';
   }, 500);
 }
